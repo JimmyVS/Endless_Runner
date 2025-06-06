@@ -2,9 +2,8 @@
 
 ![Unity](https://img.shields.io/badge/Made%20With-Unity-222C37?logo=unity&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20VR-blue)
-![License](https://img.shields.io/github/license/yourusername/endless-runner)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Issues](https://img.shields.io/github/issues/yourusername/endless-runner)
+![License](https://img.shields.io/github/license/JimmyVS/Endless_Runner)
+![Issues](https://img.shields.io/github/issues/JimmyVS/Endless_Runner)
 
 > **A fast-paced endless runner made in Unity where players must avoid obstacles and survive as long as possible.**
 
@@ -12,7 +11,7 @@
 
 ## 🎮 Demo
 
-Coming soon! Stay tuned for a WebGL or PC build link.
+Available to download at itch.io!
 
 ---
 
